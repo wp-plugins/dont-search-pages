@@ -1,4 +1,4 @@
-=== AntiVirus ===
+=== Don't Search Pages ===
 Contributors: stalkerX
 Tags: search, pages
 Requires at least: 1.5
