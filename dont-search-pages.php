@@ -2,7 +2,7 @@
 /*
 Plugin Name: Don't Search Pages
 Plugin URI: http://playground.ebiene.de/517/dont-search-pages-wordpress-plugin/
-Description: Eliminate static pages from the internal blog search.
+Description: Exclude static pages in internal blog search.
 Author: Sergej M&uuml;ller
 Version: 0.1
 Author URI: http://www.wpSEO.org

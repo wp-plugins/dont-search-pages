@@ -5,11 +5,11 @@ Requires at least: 1.5
 Tested up to: 2.9.1
 Stable tag: trunk
 
-Eliminate static pages from the internal blog search.
+Exclude static pages in internal blog search.
 
 
 == Description ==
-Execute the blog search without pages. Fast, simple and effective.
+Execute blog search excluding pages. Fast, simple and effective.
 
 
 = Features =
